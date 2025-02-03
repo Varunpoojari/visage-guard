@@ -106,7 +106,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Varun Poojari - [@YourTwitter](https://twitter.com/YourTwitter)
+Varun Poojari - [@YourLinkedIn](https://www.linkedin.com/in/varunpoojari/)
 
 Project Link: [https://github.com/Varunpoojari/visage-guard](https://github.com/Varunpoojari/visage-guard)
 
