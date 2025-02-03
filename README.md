@@ -7,7 +7,6 @@
 
 A modern, secure facial authentication system built with React and Vite. VisageGuard provides real-time facial recognition with continuous presence verification.
 
-![VisageGuard Demo](public/demo-screenshot.png)
 
 ## ✨ Features
 
